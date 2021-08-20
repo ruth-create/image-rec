@@ -1,0 +1,10 @@
+body{
+    background-image:url("image recognizer backround.jpeg");
+    background-size:cover;
+    color:darkred;
+}
+.heading{
+    width: 100%;
+    font-size: 40;
+    font-family: 'Merriweather', serif;
+}
